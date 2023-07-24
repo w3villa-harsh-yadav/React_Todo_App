@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.todo-item{
+  margin: auto;
+}
+.min-100{
+  min-height: calc(100vh - 130px);
+}
